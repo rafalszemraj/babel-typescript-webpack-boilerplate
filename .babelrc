@@ -6,13 +6,6 @@
     ],
     "plugins": [
         "@babel/proposal-class-properties",
-        "@babel/proposal-object-rest-spread",
-        ["module-resolver", {
-        	"alias": {
-        		"@components/*": "./src/components/*",
-        	}
-
-
-        }]
+        "@babel/proposal-object-rest-spread"
     ]
 }

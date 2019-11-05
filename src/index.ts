@@ -1,3 +1,4 @@
-import component from '@components/component'
-
-component()
+import ticket from 'src/modules/ticket/ticket'
+import config from 'src/app/[app]/moduleConfig'
+ticket()
+config()
