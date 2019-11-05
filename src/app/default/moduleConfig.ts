@@ -1,1 +1,1 @@
-export default () => console.log("default config")
+export default () => console.log("I'm GO config")

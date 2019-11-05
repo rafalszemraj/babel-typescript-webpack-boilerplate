@@ -1,1 +1,1 @@
-export default () => console.log("PRO config")
+export default () => console.log("I'm PRO config")

@@ -39,8 +39,8 @@
 		"forceConsistentCasingInFileNames": true,
 		"importHelpers": true,
 		"paths": {
-			 "*": ["*.pro"],
-			 "src/app/[app]/*": ["src/app/pro/*"]
+			 "*": ["*.default"],
+			 "src/app/[app]/*": ["src/app/default/*"]
 			
 		}
 	},

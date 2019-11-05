@@ -1,1 +1,1 @@
-export default () => console.log("I'm GO ticvket")
+export default () => console.log("I'm GO ticket")
